@@ -1,6 +1,6 @@
 
 body {
-    background-color: #141414;
+    background-color: #2d2d2d;
     color: #e0e0e0;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -10,7 +10,7 @@ body {
 
 h1, h2 {
     text-align: center;
-    color: #5053f8b0;
+    color: #fd1105;
     font-size: 1.5em;
 }
 
@@ -19,7 +19,7 @@ input[type="text"] {
     width: calc(100% - 160px);
     padding: 8px;
     margin: 10px 0;
-    border: 2px solid #5053f8b0;
+    border: 2px solid #fd1105;
     border-radius: 5px;
     background-color: #222;
     color: #fff;
@@ -31,7 +31,7 @@ button {
     margin: 8px;
     border: none;
     border-radius: 5px;
-    background-color: #5053f8b0;
+    background-color: #fd1105;
     color: #141414;
     cursor: pointer;
     transition: background-color 0.2s;
@@ -44,11 +44,11 @@ button:hover {
 }
 
 .produto {
-    border: 1px solid #5053f8b0;
+    border: 1px solid #fd1105;
     padding: 10px;
     margin: 10px;
     border-radius: 5px;
-    background-color: #1a1a1a;
+    background-color: #a1a1a1;
     flex: 1 1 calc(25% - 20px);
     box-sizing: border-box;
     text-align: center;
@@ -71,7 +71,7 @@ button:hover {
 
 .carrinho-produto h3, .busca-produto h3 {
     font-size: 1rem;
-    color: #5053f8b0;
+    color: #fd1105;
 }
 
 .carrinho-produto p, .busca-produto p {
